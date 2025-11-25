@@ -1,0 +1,5 @@
+{
+  "name": "Timida",
+  "description": "A chat application with a persona-based AI companion named Alice. Features conversation persistence (save/load) and a modern, responsive interface.",
+  "requestFramePermissions": []
+}
